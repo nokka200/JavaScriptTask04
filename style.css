@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+    width: 50%;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
